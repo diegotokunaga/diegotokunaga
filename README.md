@@ -1,7 +1,10 @@
 ### Olá ! Meu nome é Diego Hideki Tokunaga
 
 - 🔭 Buscando oportunidades
-- 🌱 Estudando Node.js
+- 🌱 Estudando ReactJs
+- 🌱 Estudando AWS
+- ✅ ReactJs
+- ✅ NodeJs 
  
  <div align="center">
   <a href="https://github.com/diegotokunaga">
